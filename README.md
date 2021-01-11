@@ -4,4 +4,4 @@ This project aims to create a de-centralised p2p server by distributed computing
 ## Vision
 This project hope to establish a network that can manage by the people who use it rather than a few big tech tycoons. I think it won'be be perfect at the start but I think we deserve some place to truely discuss and share our thoughts. 
 ## How to acheive this
-I hope we can work together to develop the algrithem and coding. 
+I hope we can work together to develop the algrithem and . 
